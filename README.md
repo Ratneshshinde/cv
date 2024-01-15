@@ -1,1 +1,1 @@
-Sample of CV Template
+# Public CV template
